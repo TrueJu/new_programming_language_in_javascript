@@ -1,3 +1,5 @@
+print("dfh dl");
+
 $fncTest() {
     var test = "Hello World!";
     print(test);
@@ -6,5 +8,3 @@ $fncTest() {
 
 
 %fncTest();
-
-print("dfh dl");
