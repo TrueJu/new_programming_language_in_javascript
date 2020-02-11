@@ -1,0 +1,12 @@
+
+
+$fncTest() {
+    var test = "Hello World!";
+    print(test);
+}
+
+
+
+%fncTest();
+
+print("dfh dl");
