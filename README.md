@@ -5,3 +5,12 @@ The code does the following:
 
 - Lexing, reads the source file .tjx and creates tokens
 - Parsing, understands the tokens and executes the code
+
+```
+$fncTest() {
+    var test = "Hello World!";
+    print(test);
+}
+
+%fncTest();
+```
