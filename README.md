@@ -1,4 +1,4 @@
-# new_programming_language_in_javascript
+# New programming language in javascript
 A programming language based on JavaScript. 
 
 The code does the following:
