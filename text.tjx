@@ -1,10 +1,9 @@
-print("dfh dl");
+print("Currently the language can do the following:");
+print("Printing text, functions and variables");
 
 $fncTest() {
     var test = "Hello World!";
     print(test);
 }
-
-
 
 %fncTest();
