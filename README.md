@@ -9,10 +9,10 @@ The code does the following:
 Here is a small example of what a "Hello world!" program with a function would look like:
 
 ```
-$fncTest() {
+$myFunction() {
     var test = "Hello world!";
     print(test);
 }
 
-%fncTest();
+%myFunction();
 ```
