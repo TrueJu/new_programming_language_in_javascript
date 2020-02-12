@@ -5,8 +5,7 @@ The code does the following:
 
 - Lexing, reads the source file .tjx and creates tokens
 - Parsing, understands the tokens and executes the code
-
-
+<br/>
 Here is a small example of what a hello world program with a function would look like:
 
 ```
