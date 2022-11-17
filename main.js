@@ -146,16 +146,6 @@ function parser(LEX_OUT) {
             execute(exeStack[s][0], exeStack[s][1]);
         }
     }
-
-/*     console.log(srcLEX);
-    console.log(pLEX);
-    console.log(cpLEX);
-    console.log(DictLEX);
-
-    console.log("\nEXE stack\n");
-    console.log(exeStack);
-    console.log("\n\n");
-    console.log(funcDict); */
 }
 function main() {
     var LEXo;
